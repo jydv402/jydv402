@@ -35,7 +35,7 @@
   <a href="https://discordapp.com/users/1034351194681909288" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="mailto:jydv402@gmail.com?subject=Hello&body=Hi%20there!%20I%20found%20you%20on%20GitHub." target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jydv402@gmail.com&su=Hello&body=Hi%20there!%20I%20found%20you%20on%20GitHub." target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/jd402/" target="_blank">
