@@ -21,8 +21,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=jydv402&icon=5&color=2)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jydv402) 
-
+## 💰 You can help me by Donating
+[![Buy Me A Chai](https://buymeachai.ankushminda.com/assets/images/buymeachai-button.png)](https://buymeachai.ankushminda.com/jydv402)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
