@@ -1,5 +1,12 @@
 # 💫 About Me:
-🤗Self-taught cross platform app developer<br>⚒️Juggling with Flutter and Dart<br>😊AI enthusiast<br>😉Building apps as a hobby<br>🤝Would love to contribute on projects
+### Hi, I'm Jayadev 👋  
+**Mobile App Developer | AI-Enthusiast**  
+🎯 Passionate about solving real-world problems using Flutter, Firebase, and Python.
+
+🚀 **What I Do:**
+- Build user-focused mobile apps with Flutter + Firebase  
+- Explore AI integrations (LangChain, LLMs) for productivity tools  
+- Open source contributor
 
 
 ## 🌐 Socials:
