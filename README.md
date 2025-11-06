@@ -36,5 +36,5 @@
 
 ## 💰 You can help me by Donating
 <div align="center">
-  <a href="https://buymeachai.ankushminda.com/jydv402"><img width="200" src="https://buymeachai.ankushminda.com/assets/images/buymeachai-button.png"  /></a><br/>
+  <a href="https://buymeachai.ezee.li/jydv402" target="_blank" rel="noopener noreferrer"><img src="https://buymeachai.ezee.li/assets/images/buymeachai-button.png" alt="Buy Me A Chai" width="200"></a>
 </div>
