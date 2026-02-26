@@ -18,16 +18,9 @@
 <div align="center">
   
   <img src="https://nirzak-streak-stats.vercel.app/?user=jydv402&theme=dark&hide_border=true" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=jydv402&theme=dark&hide_border=true&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jydv402&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" /><br/>
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fjydv402%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjydv402%2F&label=Profile%20visits&countColor=%23263759" /></a>
 </div>
 
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jydv402&theme=radical&no-frame=true&no-bg=false&margin-w=4"/><br/>
-</div>
 
 ### 🔝 Top Contributed Repo
 <div align="center">
