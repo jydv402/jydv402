@@ -1,33 +1,95 @@
-# 💫 About Me:
-### Hi, I'm Jayadev 👋  
-**Mobile App Developer | AI-Enthusiast**  
-🎯 Passionate about solving real-world problems using Flutter, Firebase, and Python.
+# <img src="https://raw.githubusercontent.com/jydv402/jydv402/main/zenitsu-header.gif" alt="Zenitsu Banner" width="100%" style="border-radius: 8px;">
 
-🚀 **What I Do:**
-- Build user-focused mobile apps with Flutter + Firebase  
-- Explore AI integrations (LangChain, LLMs) for productivity tools  
-- Open source contributor
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jydv402) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jd402) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jydv402@gmail.com) 
-
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
 <div align="center">
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jydv402&theme=dark&hide_border=true" /><br/>
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fjydv402%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjydv402%2F&label=Profile%20visits&countColor=%23263759" /></a>
+
+## ⚡ Hey, I'm **Jayadev** | *App Dev × AI Tinkerer*
+
+```
+» Building beautiful apps × Riding the AI/ML Bandwagon x Exploring LLM integrations × Open source contributor «
+```
+
+### [Instagram](https://instagram.com/jydv402) • [LinkedIn](https://linkedin.com/in/jd402) • [Email](mailto:jydv402@gmail.com)
+
 </div>
 
+---
 
-### 🔝 Top Contributed Repo
+## 🎯 What I Do
+
+I craft **user-focused mobile experiences** with **Flutter**, sprinkle in some **AI magic** with modern LLMs, and contribute to open source whenever I can. I'm obsessed with turning ideas into working software—from concept to production.
+
+### Current Focus
+- 📱 **Flutter** apps with slick UI
+- 🤖 **AI-powered features** (RAG, agent patterns, prompt engineering)
+- 🔧 Building **tools that actually solve problems**
+
+---
+
+## 🛠️ Tech Arsenal
+
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=jydv402&limit=5&theme=dark&combine_all_yearly_contributions=true"/><br/>
+
+| **Mobile & Frontend** | **Backend & Data** | **AI & Tools** | **Design & DevOps** |
+|:---:|:---:|:---:|:---:|
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) | ![Langsmith](https://img.shields.io/badge/LangSmith-000000?style=flat-square&logo=chainlink&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white) | ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
+
 </div>
 
-## 💰 You can help me by Donating
+---
+
+## 📈 The Numbers
+
 <div align="center">
-  <a href="https://buymeachai.ezee.li/jydv402" target="_blank" rel="noopener noreferrer"><img src="https://buymeachai.ezee.li/assets/images/buymeachai-button.png" alt="Buy Me A Chai" width="200"></a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jydv402&theme=highcontrast&hide_border=true)](https://github.com/jydv402)
+
+**Contributing consistently** 🔥 | **Open to collaboration** 🤝 | **Always learning** 📚
+
+</div>
+
+---
+
+## 🌟 Latest Projects
+
+Check out my [repositories](#) to see what I'm building:
+
+---
+
+## 💡 Beyond Code
+
+When I'm not coding, you'll find me:
+- 🏍️ Biking around, gotta touch the grass
+- 🎮 Gaming & anime enthusiast
+- 🎨 Exploring design trends and UX principles
+- 📖 Reading tech blogs and research papers
+- 🤝 Learning, cause everyday is a new opportunity
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in:
+- **Collaborations** on Flutter projects
+- **AI projects** that push boundaries
+- **Mentorship** opportunities (both ways!)
+- **Your ideas** → DM me in
+
+<div align="center">
+
+[![Buy me a chai](https://img.shields.io/badge/Buy%20Me%20A%20Chai-F4B942?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeachai.ezee.li/jydv402)
+
+**Support my work & help me go forward!**
+
+</div>
+
+---
+
+<div align="center">
+
+### *"Code is poetry written in logic"* ⚡
+
+**Thanks for stopping by! Star a repo if you find it useful.** ⭐
+
 </div>
