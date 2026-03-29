@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/jydv402/jydv402/main/zenitsu-header.gif" alt="Zenitsu Banner" width="100%" style="border-radius: 8px;">
+# <img src="https://raw.githubusercontent.com/jydv402/jydv402/main/assets/zenitsu-header.gif" alt="Zenitsu Banner" width="100%" style="border-radius: 8px;">
 
 <div align="center">
 
