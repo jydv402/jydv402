@@ -53,14 +53,14 @@ I craft **user-focused mobile experiences** with **Flutter**, sprinkle in some *
 
 ## 🌟 Latest Projects
 
-Check out my [repositories](#) to see what I'm building:
+Check out my [repositories](https://github.com/jydv402?tab=repositories) to see what I'm building😉
 
 ---
 
 ## 💡 Beyond Code
 
 When I'm not coding, you'll find me:
-- 🏍️ Biking around, gotta touch the grass
+- 🏍️ Biking around, gotta touch the grass!!!
 - 🎮 Gaming & anime enthusiast
 - 🎨 Exploring design trends and UX principles
 - 📖 Reading tech blogs and research papers
