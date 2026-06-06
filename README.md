@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## ⚡ Hey, I'm **Jayadev** | *App Dev × AI Tinkerer*
+## ⚡ Hey, I'm **Jayadev B S** | *App Dev × AI Tinkerer*
 
 ```
 » Building beautiful apps × Riding the AI/ML Bandwagon x Exploring LLM integrations × Open source contributor «
