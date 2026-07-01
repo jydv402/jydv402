@@ -8,7 +8,7 @@
 » Building beautiful apps × Riding the AI/ML Bandwagon x Exploring LLM integrations × Open source contributor «
 ```
 
-### [Instagram](https://instagram.com/jydv402) • [LinkedIn](https://linkedin.com/in/jd402) • [Email](mailto:jydv402@gmail.com)
+### [Instagram](https://instagram.com/jydv402) • [LinkedIn](https://linkedin.com/in/jd402) • [Email](mailto:jydv402@gmail.com) • [Website](https://jayadevbs.pages.dev/)
 
 </div>
 
