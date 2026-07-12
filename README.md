@@ -92,4 +92,6 @@ I'm always interested in:
 
 **Thanks for stopping by! Star a repo if you find it useful.** ⭐
 
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=jydv402&repo=jydv402&countColorcountColor&countColor=%23000000"/>
+
 </div>
